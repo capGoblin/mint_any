@@ -9,7 +9,8 @@ import type { UserModule } from './types'
 import '@unocss/reset/tailwind.css'
 import './styles/main.css'
 import 'uno.css'
-import 'primevue/resources/themes/lara-light-green/theme.css'
+
+// import 'primevue/resources/themes/lara-light-green/theme.css'
 
 // const routes = setupLayouts(generatedRoutes)
 
